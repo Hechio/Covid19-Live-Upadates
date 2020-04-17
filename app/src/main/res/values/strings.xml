@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCovidApp</string>
+    <string name="enter_country">Enter country name or all</string>
+    <string name="country_holder">Country Name</string>
+    <string name="active">Active</string>
+    <string name="holder">__ __ __</string>
+    <string name="recovered">Recovered</string>
+    <string name="deceased">Deaths</string>
+    <string name="critical">Critical</string>
+    <string name="today_cases">Today Cases :</string>
+    <string name="today_deaths">Today Deaths :</string>
+    <string name="tested">Tested</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="global">Global Statistics</string>
+    <string name="title">Title</string>
+    <string name="country">Country</string>
+    <string name="cases">Cases</string>
+</resources>

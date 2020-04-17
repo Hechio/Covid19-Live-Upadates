@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#257EF8</color>
+    <color name="colorPrimaryLight">#B5E5EF</color>
+    <color name="colorPrimaryDark">#257EF8</color>
+    <color name="colorAccent">#09A7C3</color>
+    <color name="colorLight">#1509A7C3</color>
+    <color name="violet">#4B2076</color>
+    <color name="colorCenter">#00687E</color>
+    <color name="white">#ffffff</color>
+    <color name="tabGrey">#DBE7EA</color>
+    <color name="dark">#404A4D</color>
+    <color name="lightDark">#DBE7EA</color>
+    <color name="lightDark1">#5D6D72</color>
+    <color name="btnGrey">#C8D3D6</color>
+    <color name="etGrey">#ECF3F5</color>
+    <color name="etLightBlue">#B5E5EF</color>
+    <color name="codeColor">#006379</color>
+    <color name="textGrey">#A4B2B5</color>
+    <color name="textHint">#949C9F</color>
+    <color name="colorActionBar">#257EF8</color>
+    <color name="colorViewBackground">#E7F5F8</color>
+    <color name="red">#EF375A</color>
+    <color name="green">#7AC9A8</color>
+    <color name="grey">#938F90</color>
+    <color name="orange">#F87523</color>
+    <color name="darkGreen">#006379</color>
+    <color name="darkRed">#F00E24</color>
+    <color name="black">#1A1818</color>
+    <color name="textAlertTime">#889B9F</color>
+    <color name="colorUnchecked">#C8D3D6</color>
+    <color name="darkerRed">#AC101F</color>
+    <color name="text_unchecked">#596E72</color>
+    <color name="lightGreen">#04BC7C</color>
+    <color name="textGrey1">#262B38</color>
+    <color name="dullBlue">#006379</color>
+    <color name="transparent">#090D0E57</color>
+    <color name="switchTrackNormal">#C8D3D6</color>
+    <color name="transparent1">#10FFFFFF</color>
+
+</resources>
